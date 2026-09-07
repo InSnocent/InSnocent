@@ -1,6 +1,4 @@
-# Hi, 我是 InSnocent 👋
-
-一个喜欢折腾的个人开发者、Geek、Homelab 玩家。
+个人开发者、Geek、Homelab 玩家。
 
 ![localhost](./images/localhost.gif "放来搞笑的")
 
